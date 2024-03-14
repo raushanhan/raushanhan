@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently learning java at kfu
+fun fact: i love people and life
+
 <!--
 **raushanhan/raushanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
